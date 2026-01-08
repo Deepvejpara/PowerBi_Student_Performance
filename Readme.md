@@ -4,12 +4,6 @@
 
 This project is an **interactive Power BI dashboard** designed to analyze **student academic performance, attendance, and behavioral patterns** across grades, subjects, and terms. It demonstrates strong skills in **data modeling, DAX, visualization, and storytelling**.
 
----
-
-## 🕒 Project Details
-- **Title:** Student Performance Dashboard – Academic & Behavioral Insights
-- **Duration:** 2.5 – 3 Hours
-- **Total Marks:** 50
 
 ---
 
